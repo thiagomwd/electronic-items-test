@@ -1,0 +1,22 @@
+{
+    "name": "thix/track-tik",
+    "description": "A test for an interview process",
+    "autoload": {
+        "psr-4": {
+            "": "src/",
+            "fixtures\\": "tests/fixtures"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thiago Miranda",
+            "email": "thix.miranda@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}

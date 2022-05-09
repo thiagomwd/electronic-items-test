@@ -1,0 +1,53 @@
+[
+  {
+    "type": "console",
+    "price": 350,
+    "wired": true,
+    "extras": [
+      {
+        "type": "controller",
+        "price": 10,
+        "wired": true
+      },
+      {
+        "type": "controller",
+        "price": 10,
+        "wired": true
+      }
+    ]
+  },
+  {
+    "type": "television",
+    "price": 400,
+    "wired": true,
+    "extras": [
+      {
+        "type": "controller",
+        "price": 10,
+        "wired": true
+      },
+      {
+        "type": "controller",
+        "price": 10,
+        "wired": true
+      }
+    ]
+  },
+  {
+    "type": "television",
+    "price": 200,
+    "wired": true,
+    "extras": [
+      {
+        "type": "controller",
+        "price": 10,
+        "wired": true
+      }
+    ]
+  },
+  {
+    "type": "microwave",
+    "price": 85,
+    "wired": true
+  }
+]
